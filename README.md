@@ -1,3 +1,2 @@
 # hello.txt
-hello navya
-aditya college
+hello github
